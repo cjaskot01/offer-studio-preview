@@ -1,4 +1,4 @@
-import{Ft as e,Gt as t,Jt as n,Rt as r,Zt as i,f as a,lt as o}from"./_plugin-vue_export-helper-Zc3QNfF9.js";import{l as s}from"./select-0_77XiwE.js";var c=a.extend({name:`toggleswitch`,style:`
+import{Ft as e,Gt as t,Jt as n,Rt as r,Zt as i,f as a,lt as o}from"./_plugin-vue_export-helper-Zc3QNfF9.js";import{l as s}from"./select-BxaE1QDN.js";var c=a.extend({name:`toggleswitch`,style:`
     .p-toggleswitch {
         display: inline-block;
         width: dt('toggleswitch.width');
