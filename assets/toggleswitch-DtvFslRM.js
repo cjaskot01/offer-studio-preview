@@ -1,4 +1,4 @@
-import{Ft as e,Kt as t,Qt as n,Rt as r,Yt as i,f as a,lt as o}from"./_plugin-vue_export-helper-Dccn7nnx.js";import{l as s}from"./select-Dce_DOg7.js";var c=a.extend({name:`toggleswitch`,style:`
+import{Ft as e,Kt as t,Qt as n,Rt as r,Yt as i,f as a,lt as o}from"./_plugin-vue_export-helper-Dccn7nnx.js";import{l as s}from"./select-CQR4x0e8.js";var c=a.extend({name:`toggleswitch`,style:`
     .p-toggleswitch {
         display: inline-block;
         width: dt('toggleswitch.width');
