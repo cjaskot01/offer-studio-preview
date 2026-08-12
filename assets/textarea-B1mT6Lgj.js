@@ -1,4 +1,4 @@
-import{Kt as e,Rt as t,Yt as n,f as r,lt as i}from"./_plugin-vue_export-helper-Dccn7nnx.js";import{c as a}from"./select-B1RN_Ufz.js";var o=r.extend({name:`textarea`,style:`
+import{Kt as e,Rt as t,Yt as n,f as r,lt as i}from"./_plugin-vue_export-helper-Dccn7nnx.js";import{c as a}from"./select-pAjr7ZfE.js";var o=r.extend({name:`textarea`,style:`
     .p-textarea {
         font-family: inherit;
         font-feature-settings: inherit;
