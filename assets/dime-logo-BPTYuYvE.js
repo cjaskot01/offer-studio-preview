@@ -1,0 +1,1 @@
+var e=``+new URL(`../images/dime-logo.png`,import.meta.url).href;export{e as t};
